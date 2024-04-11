@@ -1,0 +1,150 @@
+body{
+    background-color:rgb(255, 255, 255);
+    color:black;
+    font-size: 12x;
+    font-family: Arial;
+    margin: 150px; 
+   
+}   
+
+
+
+body{
+
+    background-image: url(fall-7863868_1280.jpg);
+    
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1550px 150px;
+
+
+}
+
+
+
+h1 {
+    background-color: #7c1408;
+    color: #ffffff; 
+    font-size: 30x;
+    font-family: Arial;
+    margin-left: -150px;
+    margin-right: -150px;
+   
+   
+}
+
+h2 {
+    background-color:  rgb(87, 118, 144);
+    color: #ffffff;     
+    font-size: 25px;
+    font-family: Arial;
+    margin-left: 75px;
+    margin-right: 75px;
+
+
+
+}
+
+
+h3 {
+background-color: rgb(188, 191, 94);
+color: #ffffff; 
+font-size: 30px;
+font-family: Arial;
+margin-left: 0px;
+margin-right: 0px;
+}
+
+h4 {
+    background-color: rgb(186, 188, 148);
+    color: #ffffff; 
+    font-size: 30px;
+    font-family: Arial;
+    margin-left: 0px;
+    margin-right: 0px;
+    }
+
+
+
+h5 {
+    background-color: rgb(186, 188, 148); 
+    color: #ffff;
+    font-size: 30px;
+    font-family: Arial;
+    margin-left: 0px;
+    margin-right: 0px;
+
+
+}
+
+h6 {
+    background-color: rgb(255, 255, 255); 
+    color: #000000;
+    font-size: 25px;
+    font-family: Arial;
+    margin-left: 350px;
+    margin-right: 0px;
+
+
+}
+
+
+p{
+    color: rgb(255, 255, 255); 
+    font-size: 12x;
+    font-family: Arial;
+    margin-left: 100px;
+    margin-right: 100px;
+   
+
+}
+
+
+ol{
+    color: rgb(255, 255, 255); 
+    font-size: 12x;
+    font-family: Arial;
+    margin-left: 250px;
+    margin-right: 100px;
+
+}
+
+ul{
+    color: rgb(255, 255, 255); 
+    font-size: 12x;
+    font-family: Arial;
+    margin-left: 350px;
+    margin-right: 100px;
+
+
+
+}
+
+dl{  
+    color: rgb(255, 255, 255); 
+    font-size: 12x;
+    font-family: Arial;
+    margin-left: 450px;
+    margin-right: 100px;
+
+
+
+
+}
+
+
+.first{
+    background: rgb(87, 118, 144);
+    color:#ffffff;
+}
+
+.second{
+    background: rgb(87, 118, 144);
+    color:#ffffff;
+}
+
+.third {
+    background: rgb(87, 118, 144);
+    color:#ffffff;
+}
+
